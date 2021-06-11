@@ -1,11 +1,36 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Luke Bouch",
-	"icon": "https://micro.blog/LukeBouch/avatar.jpg",
+	"icon": "https://micro.blog/lukebouch/avatar.jpg",
 	"home_page_url": "https://lukebouch.com/",
 	"feed_url": "https://lukebouch.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://LukeBouch.micro.blog/2021/06/11/i-just-started.html",
+				
+				"content_html": "<p>I just started using MQTT to control some IoT devices, and it is <strong>awesome</strong>! It is so much easier than what I have been doing trying to write my own server.</p>\n",
+				"content_text": "I just started using MQTT to control some IoT devices, and it is **awesome**! It is so much easier than what I have been doing trying to write my own server. \n\n",
+				"date_published": "2021-06-11T00:07:18-04:00",
+				"url": "https://lukebouch.com/2021/06/11/i-just-started.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2021/06/05/i-just-started.html",
+				
+				"content_html": "<p>I just started using MQTT to control some IoT devices, and it is <strong>awesome</strong>! It is so much easier than what I have been doing trying to write my own server.</p>\n",
+				"content_text": "I just started using MQTT to control some IoT devices, and it is **awesome**! It is so much easier than what I have been doing trying to write my own server. \n\n",
+				"date_published": "2021-06-05T08:58:00-04:00",
+				"url": "https://lukebouch.com/2021/06/05/i-just-started.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2021/06/02/im-working-on.html",
+				
+				"content_html": "<p>I’m working on my electrical license and this video was very accurate with its explanation of the flaws in our extension cords here in the US. I wish more people understood wire gauge and the amount of current you can safely run through each size.</p>\n\n<p><a href=\"https://youtu.be/K_q-xnYRugQ\">https://youtu.be/K_q-xnYRugQ</a></p>\n",
+				"content_text": "I’m working on my electrical license and this video was very accurate with its explanation of the flaws in our extension cords here in the US. I wish more people understood wire gauge and the amount of current you can safely run through each size. \n\n[https://youtu.be/K\\_q-xnYRugQ](https://youtu.be/K_q-xnYRugQ)\n\n",
+				"date_published": "2021-06-02T21:21:00-04:00",
+				"url": "https://lukebouch.com/2021/06/02/im-working-on.html",
+				"tags": ["Electrical"]
+			},
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/29/133105.html",
 				
@@ -17,8 +42,8 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/29/i-do-electrical.html",
 				
-				"content_html": "<p>I do electrical here and there and this is so true.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/7cdd4e63bf.jpg\" alt=\"\" /></p>\n",
-				"content_text": "I do electrical here and there and this is so true. \n\n![](https://lukebouch.com/uploads/2021/7cdd4e63bf.jpg)\n\n",
+				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2021/7cdd4e63bf.jpg\" alt=\"\" /></p>\n",
+				"content_text": "\n![](https://lukebouch.com/uploads/2021/7cdd4e63bf.jpg)\n\n",
 				"date_published": "2021-05-29T13:30:49-04:00",
 				"url": "https://lukebouch.com/2021/05/29/i-do-electrical.html"
 			},
@@ -95,8 +120,7 @@
 				"content_html": "<p>I was very surprised to find out the Nord Stage 3 has a panic button. Never something I would have expected in the context of a keyboard, but I understand its purpose.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/7294cc0377.jpg\" alt=\"\" /></p>\n",
 				"content_text": "I was very surprised to find out the Nord Stage 3 has a panic button. Never something I would have expected in the context of a keyboard, but I understand its purpose. \n\n![](https://lukebouch.com/uploads/2021/7294cc0377.jpg)\n\n",
 				"date_published": "2021-05-27T00:33:00-04:00",
-				"url": "https://lukebouch.com/2021/05/27/i-was-very.html",
-				"tags": ["Featured"]
+				"url": "https://lukebouch.com/2021/05/27/i-was-very.html"
 			},
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/27/created-this-cool.html",
