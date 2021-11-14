@@ -7,11 +7,52 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2021/11/13/here-a-few.html",
+				
+				"content_html": "<p>Here a few photos I have taken over the last two days with the Sony a6300. I think they turned out great! I did a few touch-ups in post but overall the photos were very good straight out of the camera.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/04783e2c97.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/75cf135f2e.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/5d7e3ba6f4.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/9bfd5b9a5f.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Here a few photos I have taken over the last two days with the Sony a6300. I think they turned out great! I did a few touch-ups in post but overall the photos were very good straight out of the camera.\n\n![](https://lukebouch.com/uploads/2021/04783e2c97.jpg)![](https://lukebouch.com/uploads/2021/75cf135f2e.jpg)![](https://lukebouch.com/uploads/2021/5d7e3ba6f4.jpg)![](https://lukebouch.com/uploads/2021/9bfd5b9a5f.jpg)\n\n",
+				"date_published": "2021-11-13T21:40:24-05:00",
+				"url": "https://lukebouch.com/2021/11/13/here-a-few.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2021/11/12/today-i-purchased.html",
+				
+				"content_html": "<p>Today I purchased a Sony a6300. I got a great deal on it used, and it came with four lenses. I have been testing it out a little, and it is a big upgrade from my Canon Rebel t3i. I will post some photos I have taken with it tomorrow.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/3565704c6e.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Today I purchased a Sony a6300. I got a great deal on it used, and it came with four lenses. I have been testing it out a little, and it is a big upgrade from my Canon Rebel t3i. I will post some photos I have taken with it tomorrow. \n\n![](https://lukebouch.com/uploads/2021/3565704c6e.jpg)\n\n",
+				"date_published": "2021-11-12T23:32:54-05:00",
+				"url": "https://lukebouch.com/2021/11/12/today-i-purchased.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2021/11/08/today-i-worked.html",
+				
+				"content_html": "<p>Today I worked on cleaning and organizing my desk. I still have some work to do but it is already much more functional.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/3285f835b3.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/f0b5f3b2c9.jpg\" alt=\"\" /></p>\n\n<p>I mounted a small shelf underneath my desk where I can place my MacBook Pro while it is plugged into my Caldigit TS3 Plus.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/a0ca2f5f76.jpg\" alt=\"\" /></p>\n\n<p>I also ran a Cat 6 wire to an WiFi access point which also acts as a ethernet switch. Hopefully this will improve speeds now that I have a wired connection and increase WiFi coverage on this side of the house. Oh&hellip; and I also have my Synology DS418 with 2x 4TB Seagate IronWolf drives in it. It is also wired directly into the access point.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/0a7f898350.jpg\" alt=\"\" /></p>\n",
+				"content_text": "Today I worked on cleaning and organizing my desk. I still have some work to do but it is already much more functional. \n\n![](https://lukebouch.com/uploads/2021/3285f835b3.jpg)\n\n![](https://lukebouch.com/uploads/2021/f0b5f3b2c9.jpg)\n\nI mounted a small shelf underneath my desk where I can place my MacBook Pro while it is plugged into my Caldigit TS3 Plus. \n\n![](https://lukebouch.com/uploads/2021/a0ca2f5f76.jpg)\n\nI also ran a Cat 6 wire to an WiFi access point which also acts as a ethernet switch. Hopefully this will improve speeds now that I have a wired connection and increase WiFi coverage on this side of the house. Oh... and I also have my Synology DS418 with 2x 4TB Seagate IronWolf drives in it. It is also wired directly into the access point. \n\n![](https://lukebouch.com/uploads/2021/0a7f898350.jpg)\n\n",
+				"date_published": "2021-11-08T21:51:04-05:00",
+				"url": "https://lukebouch.com/2021/11/08/today-i-worked.html",
+				"tags": ["DIY"]
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2021/11/06/i-hope-he.html",
+				
+				"content_html": "<p>I hope he has his golf cart license 😂</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/9b7803de31.jpg\" alt=\"\" /></p>\n",
+				"content_text": "I hope he has his golf cart license 😂\n\n![](https://lukebouch.com/uploads/2021/9b7803de31.jpg)\n\n",
+				"date_published": "2021-11-06T21:10:04-05:00",
+				"url": "https://lukebouch.com/2021/11/06/i-hope-he.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2021/11/06/220510.html",
+				
+				"content_html": "<p>The iOS weather does not seem to be aware that the time change is tonight.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/ff94b97ad1.jpg\" alt=\"\" /></p>\n",
+				"content_text": "The iOS weather does not seem to be aware that the time change is tonight. \n\n![](https://lukebouch.com/uploads/2021/ff94b97ad1.jpg)\n\n",
+				"date_published": "2021-11-06T21:05:10-05:00",
+				"url": "https://lukebouch.com/2021/11/06/220510.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2021/11/06/how-does-a.html",
 				
 				"content_html": "<p>How does a 400 billion dollar company mess up the kerning on their signage?</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/173f8eaac9.jpg\" alt=\"\" /></p>\n",
 				"content_text": "How does a 400 billion dollar company mess up the kerning on their signage?\n\n![](https://lukebouch.com/uploads/2021/173f8eaac9.jpg)\n\n",
-				"date_published": "2021-11-06T19:13:22-04:00",
+				"date_published": "2021-11-06T18:13:22-05:00",
 				"url": "https://lukebouch.com/2021/11/06/how-does-a.html"
 			},
 			{
@@ -19,7 +60,7 @@
 				
 				"content_html": "<p>I just started using MQTT to control some IoT devices, and it is <strong>awesome</strong>! It is so much easier than what I have been doing trying to write my own server.</p>\n",
 				"content_text": "I just started using MQTT to control some IoT devices, and it is **awesome**! It is so much easier than what I have been doing trying to write my own server. \n\n",
-				"date_published": "2021-06-05T08:58:00-04:00",
+				"date_published": "2021-06-05T07:58:00-05:00",
 				"url": "https://lukebouch.com/2021/06/05/i-just-started.html"
 			},
 			{
@@ -27,16 +68,15 @@
 				
 				"content_html": "<p>I’m working on my electrical license and this video was very accurate with its explanation of the flaws in our extension cords here in the US. I wish more people understood wire gauge and the amount of current you can safely run through each size.</p>\n\n<p><a href=\"https://youtu.be/K_q-xnYRugQ\">https://youtu.be/K_q-xnYRugQ</a></p>\n",
 				"content_text": "I’m working on my electrical license and this video was very accurate with its explanation of the flaws in our extension cords here in the US. I wish more people understood wire gauge and the amount of current you can safely run through each size. \n\n[https://youtu.be/K\\_q-xnYRugQ](https://youtu.be/K_q-xnYRugQ)\n\n",
-				"date_published": "2021-06-02T21:21:00-04:00",
-				"url": "https://lukebouch.com/2021/06/02/im-working-on.html",
-				"tags": ["Electrical"]
+				"date_published": "2021-06-02T20:21:00-05:00",
+				"url": "https://lukebouch.com/2021/06/02/im-working-on.html"
 			},
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/29/133105.html",
 				
 				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2021/1627a66695.jpg\" alt=\"\" /></p>\n",
 				"content_text": "![](https://lukebouch.com/uploads/2021/1627a66695.jpg)\n\n",
-				"date_published": "2021-05-29T13:31:05-04:00",
+				"date_published": "2021-05-29T12:31:05-05:00",
 				"url": "https://lukebouch.com/2021/05/29/133105.html"
 			},
 			{
@@ -44,7 +84,7 @@
 				
 				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2021/7cdd4e63bf.jpg\" alt=\"\" /></p>\n",
 				"content_text": "\n![](https://lukebouch.com/uploads/2021/7cdd4e63bf.jpg)\n\n",
-				"date_published": "2021-05-29T13:30:49-04:00",
+				"date_published": "2021-05-29T12:30:49-05:00",
 				"url": "https://lukebouch.com/2021/05/29/i-do-electrical.html"
 			},
 			{
@@ -52,7 +92,7 @@
 				
 				"content_html": "<p>My brother showed me this and I thought it was pretty funny!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/53588d1b56.jpg\" alt=\"\" /></p>\n",
 				"content_text": "My brother showed me this and I thought it was pretty funny!\n\n![](https://lukebouch.com/uploads/2021/53588d1b56.jpg)\n\n",
-				"date_published": "2021-05-29T13:29:59-04:00",
+				"date_published": "2021-05-29T12:29:59-05:00",
 				"url": "https://lukebouch.com/2021/05/29/my-brother-showed.html"
 			},
 			{
@@ -60,16 +100,15 @@
 				
 				"content_html": "<p>I went with some friends after Bible study to Chick-Fil-A and we all shoved in one vehicle going through the drive through.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/3a8429421a.png\" alt=\"\" /></p>\n",
 				"content_text": "I went with some friends after Bible study to Chick-Fil-A and we all shoved in one vehicle going through the drive through. \n\n![](https://lukebouch.com/uploads/2021/3a8429421a.png)\n\n",
-				"date_published": "2021-05-29T13:27:59-04:00",
-				"url": "https://lukebouch.com/2021/05/29/i-went-with.html",
-				"tags": ["Spiritual"]
+				"date_published": "2021-05-29T12:27:59-05:00",
+				"url": "https://lukebouch.com/2021/05/29/i-went-with.html"
 			},
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/29/making-some-progress.html",
 				
 				"content_html": "<p>Making some progress on my secret bunker. Almost done with the roof.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/b9e0e4005e.png\" alt=\"\" /></p>\n",
 				"content_text": "Making some progress on my secret bunker. Almost done with the roof. \n\n![](https://lukebouch.com/uploads/2021/b9e0e4005e.png)\n\n",
-				"date_published": "2021-05-29T13:23:22-04:00",
+				"date_published": "2021-05-29T12:23:22-05:00",
 				"url": "https://lukebouch.com/2021/05/29/making-some-progress.html",
 				"tags": ["Minecraft"]
 			},
@@ -78,7 +117,7 @@
 				
 				"content_html": "<p>I had the blessing to be able to go on a trip four wheeling in West Virginia with three of my best friends. We departed on May 6th and spent two nights in an old school in Gary, WV.</p>\n\n<p>Here we are getting ready to leave early Thursday morning.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/e9176b7c6e.jpg\" alt=\"\" /></p>\n\n<p>We got stuck in traffic which set us back about an hour or so.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/d8e97a5013.jpg\" alt=\"\" /></p>\n\n<p>Here we are not long after getting on the trails.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/b53d085122.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/cc8f531567.jpg\" alt=\"\" /></p>\n\n<p>We had a few minor mechanical failures, one of which was my chain fell off on the trail. I was able to get it back on but had to milk it until we got to City of War. We found a really nice family that could get the chain tight enough to get us back to the school. We were running short on time, and so we had to take the road back which took about ~45mins.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/2841954361.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/0155711e9c.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/7dfcb31190.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/64fec7ee30.jpg\" alt=\"\" /></p>\n\n<p>This room at the school is currently under construction, but it looks really cool so far. I hope we get the chance to go back again soon!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/24d2f49587.jpg\" alt=\"\" /></p>\n",
 				"content_text": "I had the blessing to be able to go on a trip four wheeling in West Virginia with three of my best friends. We departed on May 6th and spent two nights in an old school in Gary, WV.\n\nHere we are getting ready to leave early Thursday morning.\n\n![](https://lukebouch.com/uploads/2021/e9176b7c6e.jpg)\n\nWe got stuck in traffic which set us back about an hour or so.\n\n![](https://lukebouch.com/uploads/2021/d8e97a5013.jpg)\n\nHere we are not long after getting on the trails.\n\n![](https://lukebouch.com/uploads/2021/b53d085122.jpg)\n\n![](https://lukebouch.com/uploads/2021/cc8f531567.jpg)\n\nWe had a few minor mechanical failures, one of which was my chain fell off on the trail. I was able to get it back on but had to milk it until we got to City of War. We found a really nice family that could get the chain tight enough to get us back to the school. We were running short on time, and so we had to take the road back which took about ~45mins.\n\n![](https://lukebouch.com/uploads/2021/2841954361.jpg)\n\n![](https://lukebouch.com/uploads/2021/0155711e9c.jpg)\n\n![](https://lukebouch.com/uploads/2021/7dfcb31190.jpg)\n\n![](https://lukebouch.com/uploads/2021/64fec7ee30.jpg)\n\nThis room at the school is currently under construction, but it looks really cool so far. I hope we get the chance to go back again soon!\n\n![](https://lukebouch.com/uploads/2021/24d2f49587.jpg)\n\n",
-				"date_published": "2021-05-28T23:34:53-04:00",
+				"date_published": "2021-05-28T22:34:53-05:00",
 				"url": "https://lukebouch.com/2021/05/28/i-had-the.html"
 			},
 			{
@@ -86,7 +125,7 @@
 				
 				"content_html": "<p>About a year ago, my uncle and I had to tackle the HVAC wiring at church and to say the least, it was very complicated. From antique equipment to old four wire mercury thermostats, it took two brains to finally install our new five wire ecobee thermostats.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/9925171539.jpg\" alt=\"\" /></p>\n",
 				"content_text": "About a year ago, my uncle and I had to tackle the HVAC wiring at church and to say the least, it was very complicated. From antique equipment to old four wire mercury thermostats, it took two brains to finally install our new five wire ecobee thermostats.\n\n![](https://lukebouch.com/uploads/2021/9925171539.jpg)\n\n",
-				"date_published": "2021-05-28T23:15:37-04:00",
+				"date_published": "2021-05-28T22:15:37-05:00",
 				"url": "https://lukebouch.com/2021/05/28/about-a-year.html"
 			},
 			{
@@ -94,7 +133,7 @@
 				
 				"content_html": "<p>I have been working on my 2007 Chevy Colorado for a while now. I just finished up restoring my bumper. I had to sand it down, fill the dents with Bondo, and then primer, paint, and final apply a 2k clear coat.</p>\n\n<p>For the base coat, I used spray paint that was custom mixed for the original factory color. I purchased the base coat, clear coat, and a touch up bottle from <a href=\"automotivetouchup.com\">automotive touch up</a> and highly recommend them.</p>\n\n<p>I’m rather pleased with how it turned out and just have to finish it up by polishing and waxing it.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/6ca366e2c2.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/704a9940f4.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/705aec5df6.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/fc7480ec42.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2021/b50b7ac8f5.jpg\" alt=\"\" /></p>\n",
 				"content_text": "I have been working on my 2007 Chevy Colorado for a while now. I just finished up restoring my bumper. I had to sand it down, fill the dents with Bondo, and then primer, paint, and final apply a 2k clear coat. \n\nFor the base coat, I used spray paint that was custom mixed for the original factory color. I purchased the base coat, clear coat, and a touch up bottle from [automotive touch up](automotivetouchup.com) and highly recommend them. \n\nI’m rather pleased with how it turned out and just have to finish it up by polishing and waxing it. \n\n![](https://lukebouch.com/uploads/2021/6ca366e2c2.jpg)![](https://lukebouch.com/uploads/2021/704a9940f4.jpg)![](https://lukebouch.com/uploads/2021/705aec5df6.jpg)![](https://lukebouch.com/uploads/2021/fc7480ec42.jpg)![](https://lukebouch.com/uploads/2021/b50b7ac8f5.jpg)\n\n",
-				"date_published": "2021-05-28T22:53:23-04:00",
+				"date_published": "2021-05-28T21:53:23-05:00",
 				"url": "https://lukebouch.com/2021/05/28/225323.html"
 			},
 			{
@@ -102,7 +141,7 @@
 				
 				"content_html": "<p>I’m currently building a minimalistic house on my Minecraft server that will act like the entrance to a secret underground bunker. I would like it to look cabin like and needs to look very humble. Furthermore, I plan to build several buildings around it to be like a village/town.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/66f0a356b0.jpg\" alt=\"\" /></p>\n",
 				"content_text": "I’m currently building a minimalistic house on my Minecraft server that will act like the entrance to a secret underground bunker. I would like it to look cabin like and needs to look very humble. Furthermore, I plan to build several buildings around it to be like a village/town. \n\n![](https://lukebouch.com/uploads/2021/66f0a356b0.jpg)\n\n",
-				"date_published": "2021-05-28T22:29:42-04:00",
+				"date_published": "2021-05-28T21:29:42-05:00",
 				"url": "https://lukebouch.com/2021/05/28/im-currently-building.html",
 				"tags": ["Minecraft"]
 			},
@@ -111,7 +150,7 @@
 				
 				"content_html": "<p>Currently working on integrating my latest posts into a website. <img src=\"https://lukebouch.com/uploads/2021/6c29509a4f.jpg\" alt=\"\" /></p>\n",
 				"content_text": "Currently working on integrating my latest posts into a website. ![](https://lukebouch.com/uploads/2021/6c29509a4f.jpg)\n\n",
-				"date_published": "2021-05-28T12:34:47-04:00",
+				"date_published": "2021-05-28T11:34:47-05:00",
 				"url": "https://lukebouch.com/2021/05/28/currently-working-on.html"
 			},
 			{
@@ -119,7 +158,7 @@
 				
 				"content_html": "<p>I was very surprised to find out the Nord Stage 3 has a panic button. Never something I would have expected in the context of a keyboard, but I understand its purpose.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/7294cc0377.jpg\" alt=\"\" /></p>\n",
 				"content_text": "I was very surprised to find out the Nord Stage 3 has a panic button. Never something I would have expected in the context of a keyboard, but I understand its purpose. \n\n![](https://lukebouch.com/uploads/2021/7294cc0377.jpg)\n\n",
-				"date_published": "2021-05-27T00:33:00-04:00",
+				"date_published": "2021-05-26T23:33:00-05:00",
 				"url": "https://lukebouch.com/2021/05/27/i-was-very.html"
 			},
 			{
@@ -127,7 +166,7 @@
 				
 				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-05-27T00:11:14-04:00",
+				"date_published": "2021-05-26T23:11:14-05:00",
 				"url": "https://lukebouch.com/2021/05/27/created-this-cool.html"
 			},
 			{
@@ -135,7 +174,7 @@
 				
 				"content_html": "<p>Welcome to my new blog. Here you will find my latest hobbies and projects, web development snippets, and interesting things I’m reading in the Bible.</p>\n",
 				"content_text": "Welcome to my new blog. Here you will find my latest hobbies and projects, web development snippets, and interesting things I’m reading in the Bible.\n\n",
-				"date_published": "2021-05-27T00:08:32-04:00",
+				"date_published": "2021-05-26T23:08:32-05:00",
 				"url": "https://lukebouch.com/2021/05/27/welcome-to-my.html"
 			}
 	]
