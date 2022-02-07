@@ -7,6 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/01/27/222536.html",
+				
+				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2022/b1a5108c0a.jpg\" alt=\"\" /></p>\n",
+				"content_text": "![](https://lukebouch.com/uploads/2022/b1a5108c0a.jpg)\n\n",
+				"date_published": "2022-01-27T22:25:36-05:00",
+				"url": "https://lukebouch.com/2022/01/27/222536.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/01/26/i-just-finished.html",
+				
+				"content_html": "<p>I just finished Day #05 of <a href=\"https://www.hackingwithswift.com/100/swiftui\"><em>100 Days of Swift UI</em></a>. Today was all about <strong>if</strong> and <strong>switch</strong> statements and the oh so helpful and elegant <strong>ternary operator</strong>.</p>\n",
+				"content_text": "I just finished Day #05 of [*100 Days of Swift UI*](https://www.hackingwithswift.com/100/swiftui). Today was all about **if** and **switch** statements and the oh so helpful and elegant **ternary operator**. \n\n",
+				"date_published": "2022-01-26T21:49:07-05:00",
+				"url": "https://lukebouch.com/2022/01/26/i-just-finished.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/01/26/we-are-having.html",
+				
+				"content_html": "<p>We are having a great time skiing!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/9d4b4aaa39.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/4d529d0f54.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/d069986e14.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/c68be8e882.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/beeab6de8c.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/d681b4344d.jpg\" alt=\"\" />￼</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/07c8e40c9c.jpg\" alt=\"\" /></p>\n",
+				"content_text": "We are having a great time skiing!\n\n![](https://lukebouch.com/uploads/2022/9d4b4aaa39.jpg)![](https://lukebouch.com/uploads/2022/4d529d0f54.jpg)![](https://lukebouch.com/uploads/2022/d069986e14.jpg)![](https://lukebouch.com/uploads/2022/c68be8e882.jpg)![](https://lukebouch.com/uploads/2022/beeab6de8c.jpg)\n\n![](https://lukebouch.com/uploads/2022/d681b4344d.jpg)￼\n\n![](https://lukebouch.com/uploads/2022/07c8e40c9c.jpg)\n\n\n",
+				"date_published": "2022-01-26T10:04:15-05:00",
+				"url": "https://lukebouch.com/2022/01/26/we-are-having.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/01/25/i-finished-day.html",
+				
+				"content_html": "<p>I finished Day #04 of <a href=\"https://www.hackingwithswift.com/100/swiftui\"><em>100 Days of Swift UI</em></a>. Today was all about type annotation.</p>\n",
+				"content_text": "I finished Day #04 of [*100 Days of Swift UI*](https://www.hackingwithswift.com/100/swiftui). Today was all about type annotation. \n\n",
+				"date_published": "2022-01-25T14:20:00-05:00",
+				"url": "https://lukebouch.com/2022/01/25/i-finished-day.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/01/24/yesterday-i-finished.html",
+				
+				"content_html": "<p>Yesterday I finished Day #02 of <a href=\"https://www.hackingwithswift.com/100/swiftui\"><em>100 Days of Swift UI</em></a>, and today I finished Day #03. As much as I love PHP and JavaScript, I’m really enjoying Swift. It is interesting to learn a compiled language verses the interpreted languages I’m familiar with.</p>\n",
+				"content_text": "Yesterday I finished Day #02 of [*100 Days of Swift UI*](https://www.hackingwithswift.com/100/swiftui), and today I finished Day #03. As much as I love PHP and JavaScript, I’m really enjoying Swift. It is interesting to learn a compiled language verses the interpreted languages I’m familiar with. \n\n",
+				"date_published": "2022-01-24T19:55:00-05:00",
+				"url": "https://lukebouch.com/2022/01/24/yesterday-i-finished.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/01/22/145315.html",
+				
+				"content_html": "<p>I just finished Day #01 of <em>100 Days of SwiftUI</em>. I’m enjoying it so far.</p>\n\n<p><a href=\"https://www.hackingwithswift.com/100/swiftui/1\">https://www.hackingwithswift.com/100/swiftui/1</a></p>\n",
+				"content_text": "I just finished Day #01 of *100 Days of SwiftUI*. I’m enjoying it so far. \n\n[https://www.hackingwithswift.com/100/swiftui/1](https://www.hackingwithswift.com/100/swiftui/1)\n\n",
+				"date_published": "2022-01-22T14:53:00-05:00",
+				"url": "https://lukebouch.com/2022/01/22/145315.html",
+				"tags": ["Development"]
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/01/21/i-went-back.html",
+				
+				"content_html": "<p>I went back to Chris Green Lake around sunset to try to capture a few photos. They did not turn out as good as I was expecting, but it was fun and I can add them to my collection.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/582e27c471.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/6c5b4d1c1d.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/4ce988e2c1.jpg\" alt=\"\" /><img src=\"https://lukebouch.com/uploads/2022/3a4ff0c2b2.jpg\" alt=\"\" /></p>\n",
+				"content_text": "I went back to Chris Green Lake around sunset to try to capture a few photos. They did not turn out as good as I was expecting, but it was fun and I can add them to my collection.\n\n![](https://lukebouch.com/uploads/2022/582e27c471.jpg)![](https://lukebouch.com/uploads/2022/6c5b4d1c1d.jpg)![](https://lukebouch.com/uploads/2022/4ce988e2c1.jpg)![](https://lukebouch.com/uploads/2022/3a4ff0c2b2.jpg)\n\n",
+				"date_published": "2022-01-21T14:17:09-05:00",
+				"url": "https://lukebouch.com/2022/01/21/i-went-back.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/01/19/here-is-a.html",
 				
 				"content_html": "<p>Here is a photo I got today at the lake. I just missed sunset. I might try to go back tomorrow after work and get a photo as the sun is going down.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/2b01d68aaa.jpg\" alt=\"\" /></p>\n",
@@ -260,8 +320,8 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/27/created-this-cool.html",
 				
-				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"https://lukebouch.com/uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-26T23:11:14-05:00",
 				"url": "https://lukebouch.com/2021/05/27/created-this-cool.html"
 			},
