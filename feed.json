@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/02/17/wordle.html",
+				
+				"content_html": "<p>⬛⬛🟩⬛🟩</p>\n\n<p>🟩⬛🟩⬛🟩</p>\n\n<p>🟩⬛🟩⬛🟩</p>\n\n<p>🟩🟩🟩⬛🟩</p>\n\n<p>🟩🟩🟩🟩🟩</p>\n\n<p>Wordle 243 5/6</p>\n",
+				"content_text": "⬛⬛🟩⬛🟩\n\n🟩⬛🟩⬛🟩\n\n🟩⬛🟩⬛🟩\n\n🟩🟩🟩⬛🟩\n\n🟩🟩🟩🟩🟩\n\nWordle 243 5/6\n\n",
+				"date_published": "2022-02-17T19:21:07-05:00",
+				"url": "https://lukebouch.com/2022/02/17/wordle.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/02/12/i-finished-day.html",
+				
+				"content_html": "<p>I finished day #12 of 100 Days of Swift UI. I’m a little behind ☹️ but I’m still making progress.</p>\n",
+				"content_text": "I finished day #12 of 100 Days of Swift UI. I’m a little behind ☹️ but I’m still making progress. \n\n",
+				"date_published": "2022-02-12T16:20:52-05:00",
+				"url": "https://lukebouch.com/2022/02/12/i-finished-day.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/02/12/im-not-sure.html",
+				
+				"content_html": "<p>I’m not sure how this trend has started, but now every company with a newsletter thinks it’s their job to tell everyone how to live out their daily life.</p>\n\n<p>Like look at this email I received the other day from Feit Electric.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/c151689a00.jpg\" alt=\"\" /></p>\n\n<p>They make smart home devices, for Pete’s sake. I know it is just for marketing reasons, but every company does not need to be everything. Just continue making light bulbs. And if you can, make a <strong>really good</strong> light bulb.</p>\n",
+				"content_text": "I’m not sure how this trend has started, but now every company with a newsletter thinks it’s their job to tell everyone how to live out their daily life. \n\nLike look at this email I received the other day from Feit Electric. \n\n![](https://lukebouch.com/uploads/2022/c151689a00.jpg)\n\nThey make smart home devices, for Pete’s sake. I know it is just for marketing reasons, but every company does not need to be everything. Just continue making light bulbs. And if you can, make a **really good** light bulb. \n\n",
+				"date_published": "2022-02-12T16:10:33-05:00",
+				"url": "https://lukebouch.com/2022/02/12/im-not-sure.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/01/27/222536.html",
 				
 				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2022/b1a5108c0a.jpg\" alt=\"\" /></p>\n",
