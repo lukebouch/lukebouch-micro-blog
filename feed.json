@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/02/25/someone-accidentally-escaped.html",
+				
+				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2022/a039bc210e.jpg\" alt=\"\" /></p>\n\n<p>Someone accidentally escaped the <code>&lt;br&gt;</code> HTML element 😂</p>\n\n<p>It’s good to know even a $100 billion company makes mistakes.</p>\n",
+				"content_text": "![](https://lukebouch.com/uploads/2022/a039bc210e.jpg)\n\nSomeone accidentally escaped the `<br>` HTML element 😂\n\nIt’s good to know even a $100 billion company makes mistakes. \n\n",
+				"date_published": "2022-02-25T13:50:02-05:00",
+				"url": "https://lukebouch.com/2022/02/25/someone-accidentally-escaped.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/02/21/i-know-there.html",
+				
+				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2022/43538fd158.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/991b29b195.jpg\" alt=\"\" /></p>\n\n<p>I know there were at least 10 dumb mistakes that were made to get to this point. I got stuck in the very wet and leafy ground out at my cousin&rsquo;s house. He came and rescued the day (or, by that point, night) and helped me get out.</p>\n",
+				"content_text": "![](https://lukebouch.com/uploads/2022/43538fd158.jpg)\n\n![](https://lukebouch.com/uploads/2022/991b29b195.jpg)\n\nI know there were at least 10 dumb mistakes that were made to get to this point. I got stuck in the very wet and leafy ground out at my cousin's house. He came and rescued the day (or, by that point, night) and helped me get out. \n\n",
+				"date_published": "2022-02-21T19:31:16-05:00",
+				"url": "https://lukebouch.com/2022/02/21/i-know-there.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/02/21/i-have-been.html",
+				
+				"content_html": "<p>I have been fairly busy lately, and I have fallen behind on a few things. Including the Swift and SwiftUI course I have been working on.</p>\n\n<p>I have been trying to decide whether to move forward with it or not. It takes quite a bit of time dedication (about 1hr a day) and I’m a long ways of from behind able to actually profit from the time spent.</p>\n\n<p>I’m thinking I’m better off focusing on the web for now. I started dabbling in Vue JS and I have a cool project that would make a good PWA.</p>\n\n<p>Furthermore, I also don’t feel like getting into the whole Apple vs. developers issues right now. At the same time, though, I want to be able to at least have some control over my iOS devices by being able to write my own apps. The web is remarkable and powerful, but there are just some things you can’t do without a native app.</p>\n\n<p>I restarted my <a href=\"laracasts.com\">Laracasts</a> subscription, which is a fantastic resource for learning web development, so I want to devote more time to increasing my knowledge of Laravel and related technologies. Since I’m paying for it, I might as well take full advantage of it. Plus, I know enough about Laravel and Livewire to actually take on some small projects. It makes sense to dedicate time to something I can build a career out of now, rather than working on learning something I know very little about.</p>\n\n<p>I started writing this post thinking I had already made up my mind… but now I’m back to not being sure what I want to do now 😂</p>\n\n<p>We will see.</p>\n",
+				"content_text": "I have been fairly busy lately, and I have fallen behind on a few things. Including the Swift and SwiftUI course I have been working on. \n\nI have been trying to decide whether to move forward with it or not. It takes quite a bit of time dedication (about 1hr a day) and I’m a long ways of from behind able to actually profit from the time spent. \n\nI’m thinking I’m better off focusing on the web for now. I started dabbling in Vue JS and I have a cool project that would make a good PWA. \n\nFurthermore, I also don’t feel like getting into the whole Apple vs. developers issues right now. At the same time, though, I want to be able to at least have some control over my iOS devices by being able to write my own apps. The web is remarkable and powerful, but there are just some things you can’t do without a native app. \n\nI restarted my [Laracasts](laracasts.com) subscription, which is a fantastic resource for learning web development, so I want to devote more time to increasing my knowledge of Laravel and related technologies. Since I’m paying for it, I might as well take full advantage of it. Plus, I know enough about Laravel and Livewire to actually take on some small projects. It makes sense to dedicate time to something I can build a career out of now, rather than working on learning something I know very little about. \n\nI started writing this post thinking I had already made up my mind… but now I’m back to not being sure what I want to do now 😂\n\nWe will see.\n\n",
+				"date_published": "2022-02-21T19:27:51-05:00",
+				"url": "https://lukebouch.com/2022/02/21/i-have-been.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/02/17/wordle.html",
 				
 				"content_html": "<p>⬛⬛🟩⬛🟩</p>\n\n<p>🟩⬛🟩⬛🟩</p>\n\n<p>🟩⬛🟩⬛🟩</p>\n\n<p>🟩🟩🟩⬛🟩</p>\n\n<p>🟩🟩🟩🟩🟩</p>\n\n<p>Wordle 243 5/6</p>\n",
