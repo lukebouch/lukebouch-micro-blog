@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/03/14/im-working-on.html",
+				
+				"content_html": "<p>I’m working on a new SaaS (software as a service) inspired by <a href=\"https://vincentritter.com/\">Vincent Ritter’s</a> <a href=\"https://sublimeads.com/\">Sublime Ads</a>. I will blog about it as I work out the details.</p>\n",
+				"content_text": "I’m working on a new SaaS (software as a service) inspired by [Vincent Ritter’s](https://vincentritter.com/) [Sublime Ads](https://sublimeads.com/). I will blog about it as I work out the details. \n\n",
+				"date_published": "2022-03-14T17:33:21-05:00",
+				"url": "https://lukebouch.com/2022/03/14/im-working-on.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/11/it-seems-like.html",
+				
+				"content_html": "\n\n<p>It seems like I go through phases of posting frequently, and then it feels like nothing interesting happens for a while and I neglect to write anything.</p>\n\n<p>I have been working on a few projects that some may find interesting. I have outlined them below.</p>\n\n<h2 id=\"vue-js\">Vue JS</h2>\n\n<p>I have been working on learning Vue JS. For those of you that are not familiar with Vue, it’s very similar to React (a piece of technology built and used by Facebook (now Meta)<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>).</p>\n\n<p>I’m enjoying using it so far. I have the tendency to jump in head first instead of working through tutorials, so progress on the app I’m working on is a bit slow. I will post more about it soon.</p>\n\n<h2 id=\"bmw-f650gs\">BMW f650gs</h2>\n\n<p>I have been working on replacing the clutch in my 2001 BMW f650gs. It’s a bit tricky and the stack height on the new one I think is a little too tall. Hopefully it works.</p>\n\n<p>I know there are more projects, but honestly, I started writing out this post several days ago, and now I forgot what I was going to say. Oops 😬</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Is it proper to nest parentheses inside one another or is that just something I picked up web development? 🤔\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "It seems like I go through phases of posting frequently, and then it feels like nothing interesting happens for a while and I neglect to write anything.\n\nI have been working on a few projects that some may find interesting. I have outlined them below.\n\n## Vue JS\nI have been working on learning Vue JS. For those of you that are not familiar with Vue, it’s very similar to React (a piece of technology built and used by Facebook (now Meta)[^1]).\n\nI’m enjoying using it so far. I have the tendency to jump in head first instead of working through tutorials, so progress on the app I’m working on is a bit slow. I will post more about it soon.\n\n## BMW f650gs\nI have been working on replacing the clutch in my 2001 BMW f650gs. It’s a bit tricky and the stack height on the new one I think is a little too tall. Hopefully it works.\n\nI know there are more projects, but honestly, I started writing out this post several days ago, and now I forgot what I was going to say. Oops 😬 \n\n[^1]:\tIs it proper to nest parentheses inside one another or is that just something I picked up web development? 🤔\n",
+				"date_published": "2022-03-11T18:50:47-05:00",
+				"url": "https://lukebouch.com/2022/03/11/it-seems-like.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/06/i-went-for.html",
+				
+				"content_html": "<p>I went for a ride this morning. It is remarkable weather today. I rode 21 curves, and as the name implies, has 21 curves. It was a little wet out but still a lot of fun.</p>\n",
+				"content_text": "I went for a ride this morning. It is remarkable weather today. I rode 21 curves, and as the name implies, has 21 curves. It was a little wet out but still a lot of fun. \n\n",
+				"date_published": "2022-03-06T08:47:09-05:00",
+				"url": "https://lukebouch.com/2022/03/06/i-went-for.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/03/06/i-put-new.html",
 				
 				"content_html": "<p><img src=\"https://lukebouch.com/uploads/2022/a8db641b6d.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/c3f2d3be79.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/c672f8b819.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/43967d4cf9.jpg\" alt=\"\" /></p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/7372509a64.jpg\" alt=\"\" /></p>\n\n<p>I put new tires on my 1999 Honda Nighthawk 750. I did it by hand, and It was not too hard.</p>\n",
