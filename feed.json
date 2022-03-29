@@ -7,6 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/03/29/i-fixed-the.html",
+				
+				"content_html": "<p>I fixed the bug I found on the post edit page on Sublime Blogs. It was kinda a dumb mistake. Now everything is working!</p>\n",
+				"content_text": "I fixed the bug I found on the post edit page on Sublime Blogs. It was kinda a dumb mistake. Now everything is working! \n",
+				"date_published": "2022-03-29T08:18:09-04:00",
+				"url": "https://lukebouch.com/2022/03/29/i-fixed-the.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/27/last-night-i.html",
+				
+				"content_html": "<p>Last night I deployed Sublime Blogs to production to test everything out as it stands. The markdown editor completely broke so I got it working locally. Still no luck on production. I’m not getting any error codes or logs either. I will take a look at it tomorrow and see if I can figure out the issue.</p>\n",
+				"content_text": "Last night I deployed Sublime Blogs to production to test everything out as it stands. The markdown editor completely broke so I got it working locally. Still no luck on production. I’m not getting any error codes or logs either. I will take a look at it tomorrow and see if I can figure out the issue. \n",
+				"date_published": "2022-03-27T17:13:20-04:00",
+				"url": "https://lukebouch.com/2022/03/27/last-night-i.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/26/oh-i-forgot.html",
+				
+				"content_html": "<p>Oh I forgot about subscription billing. I will need to build that out for Sublime Blogs.</p>\n",
+				"content_text": "Oh I forgot about subscription billing. I will need to build that out for Sublime Blogs.\n",
+				"date_published": "2022-03-26T21:22:41-04:00",
+				"url": "https://lukebouch.com/2022/03/26/oh-i-forgot.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/26/i-have-almost.html",
+				
+				"content_html": "<p>I have almost all the main components for Sublime Blogs done. I’m working on authorization right now and then I need to pull together some basic documentation and build out the marketing website. I hope to launch a public beta by the end of April.</p>\n",
+				"content_text": "I have almost all the main components for Sublime Blogs done. I’m working on authorization right now and then I need to pull together some basic documentation and build out the marketing website. I hope to launch a public beta by the end of April.\n",
+				"date_published": "2022-03-26T17:11:39-04:00",
+				"url": "https://lukebouch.com/2022/03/26/i-have-almost.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/25/today-i-worked.html",
+				
+				"content_html": "<p>Today I worked on getting image uploads to work on Sublime Blogs. It took me a while to figure it out but now it is working!</p>\n",
+				"content_text": "Today I worked on getting image uploads to work on Sublime Blogs. It took me a while to figure it out but now it is working!\n",
+				"date_published": "2022-03-25T22:06:55-04:00",
+				"url": "https://lukebouch.com/2022/03/25/today-i-worked.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/25/today-i-had.html",
+				
+				"content_html": "<p>Today I had I job that required I go spelunking… well sort of. I had to crawl underneath the sacturay of a church that was built in 1905! It was very tight and the enterance was a long way away from where we needed to go.</p>\n\n<p><img src=\"uploads/2022/2f099843db.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n<img src=\"uploads/2022/3d264a84ec.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Today I had I job that required I go spelunking… well sort of. I had to crawl underneath the sacturay of a church that was built in 1905! It was very tight and the enterance was a long way away from where we needed to go.\n\n<img src=\"uploads/2022/2f099843db.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n<img src=\"uploads/2022/3d264a84ec.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-03-25T16:48:00-04:00",
+				"url": "https://lukebouch.com/2022/03/25/today-i-had.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/24/today-on-sublime.html",
+				
+				"content_html": "<p>Today on Sublime Blogs I wrapped up the functionality to switch the site you are working on and started building out the API. Here you can see the edit page for a site where you can create API access tokens.</p>\n\n<p><img src=\"uploads/2022/76a12ccd9a.png\" width=\"600\" height=\"298\" alt=\"\" />\n<img src=\"uploads/2022/e40918c157.png\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "Today on Sublime Blogs I wrapped up the functionality to switch the site you are working on and started building out the API. Here you can see the edit page for a site where you can create API access tokens.\n\n<img src=\"uploads/2022/76a12ccd9a.png\" width=\"600\" height=\"298\" alt=\"\" />\n<img src=\"uploads/2022/e40918c157.png\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-03-24T22:43:00-04:00",
+				"url": "https://lukebouch.com/2022/03/24/today-on-sublime.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/24/over-the-past.html",
+				
+				"content_html": "<p>Over the past several months, I have been trying to decide whether or not to cancel my Google Workspaces subscription. I use it for my business email and I’m grandfathered in to an unlimited storage plan for only $12/month.</p>\n\n<p>I used to use it as my main form of storage for all the client work I did but I have since decided I don’t want all my data in the hands of Google, especially not the only copy I have, so I purchased a Synology NAS. Now comes the part where I have to migrate 2TB of data from Google Drive to my NAS. Fun 😞</p>\n\n<p>I won’t really by using much storage on Google Drive but I don’t like the thought of giving up my grandfathered in plan.</p>\n\n<p>I don’t share as much data with clients anymore (now I’m doing mostly web developer and that is all on GitHub) so I could just throw any files I need to share on an S3 bucket. Maybe even throw that behind CloudFlare for caching.</p>\n",
+				"content_text": "Over the past several months, I have been trying to decide whether or not to cancel my Google Workspaces subscription. I use it for my business email and I’m grandfathered in to an unlimited storage plan for only $12/month. \n\nI used to use it as my main form of storage for all the client work I did but I have since decided I don’t want all my data in the hands of Google, especially not the only copy I have, so I purchased a Synology NAS. Now comes the part where I have to migrate 2TB of data from Google Drive to my NAS. Fun 😞\n\nI won’t really by using much storage on Google Drive but I don’t like the thought of giving up my grandfathered in plan.\n\nI don’t share as much data with clients anymore (now I’m doing mostly web developer and that is all on GitHub) so I could just throw any files I need to share on an S3 bucket. Maybe even throw that behind CloudFlare for caching. \n",
+				"date_published": "2022-03-24T08:27:21-04:00",
+				"url": "https://lukebouch.com/2022/03/24/over-the-past.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/23/sublime-blogs-is.html",
+				
+				"content_html": "<p>Sublime Blogs is coming along well. <a href=\"https://github.com/Ionaru/easy-markdown-editor\">EasyMDE</a> has been working amazing so far!</p>\n\n<p><img src=\"uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
+				"content_text": "Sublime Blogs is coming along well. [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) has been working amazing so far! \n\n<img src=\"uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" />\n",
+				"date_published": "2022-03-23T18:16:47-04:00",
+				"url": "https://lukebouch.com/2022/03/23/sublime-blogs-is.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/23/migrating-from-ulysses.html",
+				"title": "Migrating from Ulysses to Bear",
+				"content_html": "<p>I have been using Ulysses since I started this blog for writing my blog posts before publishing them to <a href=\"https://micro.blog\">Micro.blog</a>. I have decide to migrate to using <a href=\"https://bear.app\">Bear.app</a> instead. I think it is going to work better for me as it will also replace Apple Notes for me as well.</p>\n\n<p>Now I need to to create a Siri Shortcut to be able to automatically post a Bear note to <a href=\"https://micro.blog\">Micro.blog</a>.</p>\n",
+				"content_text": "I have been using Ulysses since I started this blog for writing my blog posts before publishing them to [Micro.blog](https://micro.blog). I have decide to migrate to using [Bear.app](https://bear.app) instead. I think it is going to work better for me as it will also replace Apple Notes for me as well.\r\n\r\nNow I need to to create a Siri Shortcut to be able to automatically post a Bear note to [Micro.blog](https://micro.blog).\n",
+				"date_published": "2022-03-23T17:13:28-04:00",
+				"url": "https://lukebouch.com/2022/03/23/migrating-from-ulysses.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/22/i-set-up.html",
+				
+				"content_html": "<p>I set up CloudFlare to cache a site and in the process broke my internet controlled garage door opener. I don’t recall ever blogging about my custom garage door opener, but I should soon. Basically, I can open and close the garage door with a Siri Shortcut or control it from through a webpage.</p>\n\n<p>I had to restart a server and grey cloud the subdomain I have it setup on. It’s fixed now!</p>\n",
+				"content_text": "I set up CloudFlare to cache a site and in the process broke my internet controlled garage door opener. I don’t recall ever blogging about my custom garage door opener, but I should soon. Basically, I can open and close the garage door with a Siri Shortcut or control it from through a webpage.\n\nI had to restart a server and grey cloud the subdomain I have it setup on. It’s fixed now!\n\n",
+				"date_published": "2022-03-22T22:42:45-04:00",
+				"url": "https://lukebouch.com/2022/03/22/i-set-up.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/22/i-want-to.html",
+				
+				"content_html": "<p>I want to build a house out of an old school bus (commonly referred to as a skoolie). I have been doing some research and I found the idea of converting a diesel school bus to run on waste vegetable oil from restaurants (which you can do with a Diesel engine). One more thing to add to my skoolie wishlist.</p>\n",
+				"content_text": "I want to build a house out of an old school bus (commonly referred to as a skoolie). I have been doing some research and I found the idea of converting a diesel school bus to run on waste vegetable oil from restaurants (which you can do with a Diesel engine). One more thing to add to my skoolie wishlist.\n\n",
+				"date_published": "2022-03-22T22:37:12-04:00",
+				"url": "https://lukebouch.com/2022/03/22/i-want-to.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/21/i-think-i.html",
+				
+				"content_html": "<p>I think I will use Digital Ocean spaces for image hosting on Sublime Blogs. I wonder how much bandwidth and storage each site will use 🤔. That is going to be hard to estimate.</p>\n",
+				"content_text": "I think I will use Digital Ocean spaces for image hosting on Sublime Blogs. I wonder how much bandwidth and storage each site will use 🤔. That is going to be hard to estimate. \n\n",
+				"date_published": "2022-03-21T21:24:54-04:00",
+				"url": "https://lukebouch.com/2022/03/21/i-think-i.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/21/i-have-been.html",
+				
+				"content_html": "<p>I have been making progress on Sublime Blogs. It has been going rather smoothly. It’s always that way whenever I start a new project. Sort of deceitful… it gets much harder down the road. Currently, I’m just setting up everything, defining the database schema, and creating the basic dashboard.</p>\n\n<p>It took me a while to finally decided on a javascript text editor to use on the front-end. I have three major requirements. It has to support markdown, allow image uploading, and be open source, so I can tweak and customize as needed without having to worry about licensing.</p>\n\n<p><a href=\"https://github.com/Ionaru/easy-markdown-editor\">Easy Markdown Editor</a>, or <a href=\"https://github.com/Ionaru/easy-markdown-editor\">EasyMDE</a> for short, fulfilled all three of those requirements and as a bonus, has a great UI. It’s a fork of <a href=\"https://github.com/sparksuite/simplemde-markdown-editor\">SimpleMDE</a> with a few added features. After a few hours of work, I was able to get the editor to send its content, on update, back to whatever <a href=\"https://laravel-livewire.com/\">Livewire</a> component it is embedded in. It may not be the most elegant&hellip; but it works.</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/0594a9b0c1.jpg\" alt=\"\" /></p>\n",
+				"content_text": "I have been making progress on Sublime Blogs. It has been going rather smoothly. It’s always that way whenever I start a new project. Sort of deceitful… it gets much harder down the road. Currently, I’m just setting up everything, defining the database schema, and creating the basic dashboard.\n\nIt took me a while to finally decided on a javascript text editor to use on the front-end. I have three major requirements. It has to support markdown, allow image uploading, and be open source, so I can tweak and customize as needed without having to worry about licensing.\n\n[Easy Markdown Editor](https://github.com/Ionaru/easy-markdown-editor), or [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) for short, fulfilled all three of those requirements and as a bonus, has a great UI. It’s a fork of [SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor) with a few added features. After a few hours of work, I was able to get the editor to send its content, on update, back to whatever [Livewire](https://laravel-livewire.com/) component it is embedded in. It may not be the most elegant... but it works. \n\n![](https://lukebouch.com/uploads/2022/0594a9b0c1.jpg)\n\n",
+				"date_published": "2022-03-21T20:56:51-04:00",
+				"url": "https://lukebouch.com/2022/03/21/i-have-been.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/03/21/here-we-are.html",
 				
 				"content_html": "<p>Here we are again… days since my last blog post. I really need to get better at blogging more often. I think I’m going to challenge myself to blog at least once a day. It may be something interesting… it may not. But I will at least post about something every day.</p>\n",
@@ -164,11 +276,10 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2022/01/22/145315.html",
 				
-				"content_html": "<p>I just finished Day #01 of <em>100 Days of SwiftUI</em>. I’m enjoying it so far.</p>\n\n<p><a href=\"https://www.hackingwithswift.com/100/swiftui/1\">https://www.hackingwithswift.com/100/swiftui/1</a></p>\n",
-				"content_text": "I just finished Day #01 of *100 Days of SwiftUI*. I’m enjoying it so far. \n\n[https://www.hackingwithswift.com/100/swiftui/1](https://www.hackingwithswift.com/100/swiftui/1)\n\n",
+				"content_html": "<p>I just finished <a href=\"https://www.hackingwithswift.com/100/swiftui/1\">Day #01</a> of <em>100 Days of SwiftUI</em>. I’m enjoying it so far.</p>\n",
+				"content_text": "I just finished [Day #01](https://www.hackingwithswift.com/100/swiftui/1) of *100 Days of SwiftUI*. I’m enjoying it so far. \n\n",
 				"date_published": "2022-01-22T15:53:00-04:00",
-				"url": "https://lukebouch.com/2022/01/22/145315.html",
-				"tags": ["Development"]
+				"url": "https://lukebouch.com/2022/01/22/145315.html"
 			},
 			{
 				"id": "http://LukeBouch.micro.blog/2022/01/21/i-went-back.html",
