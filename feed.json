@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/04/06/today-i-purchased.html",
+				
+				"content_html": "<p>Today I purchased an unlimited license to Laravel Nova because it’s currently $100 off. I have never used it until today and it’s convenient for creating quick admin dashboards.</p>\n",
+				"content_text": "Today I purchased an unlimited license to Laravel Nova because it’s currently $100 off. I have never used it until today and it’s convenient for creating quick admin dashboards. \n",
+				"date_published": "2022-04-06T21:31:40-04:00",
+				"url": "https://lukebouch.com/2022/04/06/today-i-purchased.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/02/i-finally-got.html",
+				
+				"content_html": "<p>I finally got my new clutch installed in my BMW f650gs. I’m enjoying riding it!</p>\n",
+				"content_text": "I finally got my new clutch installed in my BMW f650gs. I’m enjoying riding it!\n",
+				"date_published": "2022-04-02T22:25:27-04:00",
+				"url": "https://lukebouch.com/2022/04/02/i-finally-got.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/31/i-need-to.html",
+				
+				"content_html": "<p>I need to decide on a pricing model for Sublime Blogs. I think most features are going to be free and only image hosting will cost. Do I charge per user or per site?</p>\n",
+				"content_text": "I need to decide on a pricing model for Sublime Blogs. I think most features are going to be free and only image hosting will cost. Do I charge per user or per site?\n",
+				"date_published": "2022-03-31T18:53:54-04:00",
+				"url": "https://lukebouch.com/2022/03/31/i-need-to.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/03/30/sublime-blogs-is.html",
+				
+				"content_html": "<p>Sublime Blogs is up and running! I still have a lot more to do but the basics are there and I’m able to start testing things. Now I need to be able to have the option to import from Wordpress.</p>\n",
+				"content_text": "Sublime Blogs is up and running! I still have a lot more to do but the basics are there and I’m able to start testing things. Now I need to be able to have the option to import from Wordpress.\n",
+				"date_published": "2022-03-30T15:08:45-04:00",
+				"url": "https://lukebouch.com/2022/03/30/sublime-blogs-is.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/03/29/i-fixed-the.html",
 				
 				"content_html": "<p>I fixed the bug I found on the post edit page on Sublime Blogs. It was kinda a dumb mistake. Now everything is working!</p>\n",
