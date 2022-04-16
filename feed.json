@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/04/15/i-want-to.html",
+				
+				"content_html": "<p>I want to be good at designing user interfaces, but sadly no matter how hard I try, it never ends up looking the way I want it to. So… I purchased <a href=\"https://tailwindui.com\">Tailwindui</a>. We will see if it helps.</p>\n\n<p>Now to redesign Sublime Blogs.</p>\n",
+				"content_text": "I want to be good at designing user interfaces, but sadly no matter how hard I try, it never ends up looking the way I want it to. So… I purchased [Tailwindui](https://tailwindui.com). We will see if it helps. \n\nNow to redesign Sublime Blogs.\n",
+				"date_published": "2022-04-15T22:20:49-04:00",
+				"url": "https://lukebouch.com/2022/04/15/i-want-to.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/13/i-have-a.html",
+				
+				"content_html": "<p>I have a strong appreciation for great UI. I find that the apps I <strong>enjoy</strong> using are also the ones that stick (like Things 3, Notion, etc.) If the UI is mediocre, I probably won’t adopt it into my workflow.</p>\n\n<p>I guess that just sets the bar a little higher more my own apps 😬</p>\n",
+				"content_text": "I have a strong appreciation for great UI. I find that the apps I **enjoy** using are also the ones that stick (like Things 3, Notion, etc.) If the UI is mediocre, I probably won’t adopt it into my workflow.\n\nI guess that just sets the bar a little higher more my own apps 😬\n",
+				"date_published": "2022-04-13T16:34:54-04:00",
+				"url": "https://lukebouch.com/2022/04/13/i-have-a.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/13/i-downloaded-the.html",
+				
+				"content_html": "<p>I downloaded the beta of 1Password 8 for iOS. The UI is amazing!</p>\n",
+				"content_text": "I downloaded the beta of 1Password 8 for iOS. The UI is amazing!\n",
+				"date_published": "2022-04-13T16:29:07-04:00",
+				"url": "https://lukebouch.com/2022/04/13/i-downloaded-the.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/12/time-to-do.html",
+				
+				"content_html": "<p>Time to do taxes 😞. One of the disadvantages of being self-employed is you get to watch all you money leave you all at once… every April.</p>\n",
+				"content_text": "Time to do taxes 😞. One of the disadvantages of being self-employed is you get to watch all you money leave you all at once… every April.\n",
+				"date_published": "2022-04-12T16:52:22-04:00",
+				"url": "https://lukebouch.com/2022/04/12/time-to-do.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/09/i-upgraded-tpp.html",
+				
+				"content_html": "<p>I upgraded TPP from Laravel 8 to Laravel 9! It took about an hour to go through and update all of my dependencies, update the PHP version on the server, and change the GitHub CI/CD action to run PHP 8.1.</p>\n\n<p>This was my first time every upgrading Laravel. It was not too hard. Great job Taylor and the Laravel team!</p>\n",
+				"content_text": "I upgraded TPP from Laravel 8 to Laravel 9! It took about an hour to go through and update all of my dependencies, update the PHP version on the server, and change the GitHub CI/CD action to run PHP 8.1.\n\nThis was my first time every upgrading Laravel. It was not too hard. Great job Taylor and the Laravel team!\n",
+				"date_published": "2022-04-09T17:09:14-04:00",
+				"url": "https://lukebouch.com/2022/04/09/i-upgraded-tpp.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/08/im-back-working.html",
+				
+				"content_html": "<p>I’m back working on a project (TPP) I was told to take a break on a few months ago. It’s a web app built with Laravel, AlpineJS, Livewire, and Tailwindcss. It is actually the first real web app I ever built.</p>\n\n<p>Prior to TPP, I had only just begun learning PHP and trying to build a web app (Open Outreach) in vanilla PHP. I did not even know frameworks were a thing. I just had a php file for every page and would manually query the database with SQL. To say the least, Open Outreach did not get very far.</p>\n\n<p>I made some mistakes on TPP but I’m a much better developer now and it’s fun ripping out old components and rebuilding things. I have already improved things drastically in just a few hours.</p>\n\n<p>Currently working on redesigning the whole UI. I will keep posting update periodically.</p>\n",
+				"content_text": "I’m back working on a project (TPP) I was told to take a break on a few months ago. It’s a web app built with Laravel, AlpineJS, Livewire, and Tailwindcss. It is actually the first real web app I ever built.\n\nPrior to TPP, I had only just begun learning PHP and trying to build a web app (Open Outreach) in vanilla PHP. I did not even know frameworks were a thing. I just had a php file for every page and would manually query the database with SQL. To say the least, Open Outreach did not get very far. \n\nI made some mistakes on TPP but I’m a much better developer now and it’s fun ripping out old components and rebuilding things. I have already improved things drastically in just a few hours. \n\nCurrently working on redesigning the whole UI. I will keep posting update periodically. \n",
+				"date_published": "2022-04-08T21:47:38-04:00",
+				"url": "https://lukebouch.com/2022/04/08/im-back-working.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/07/i-spent-the.html",
+				
+				"content_html": "<p>I spent the longest time trying to get Laravel Nova to work. Finally figured out my dumb mistake. I had setup a policy for the model I was trying to create a resource for and I had set the  <code>viewAny</code>  function to return false. Now I have it set to check for the <code>viewNova</code> gate. All fixed now 👍</p>\n",
+				"content_text": "I spent the longest time trying to get Laravel Nova to work. Finally figured out my dumb mistake. I had setup a policy for the model I was trying to create a resource for and I had set the  `viewAny`  function to return false. Now I have it set to check for the `viewNova` gate. All fixed now 👍\n",
+				"date_published": "2022-04-07T21:19:59-04:00",
+				"url": "https://lukebouch.com/2022/04/07/i-spent-the.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/04/06/today-i-purchased.html",
 				
 				"content_html": "<p>Today I purchased an unlimited license to Laravel Nova because it’s currently $100 off. I have never used it until today and it’s convenient for creating quick admin dashboards.</p>\n",
@@ -105,8 +161,8 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2022/03/23/sublime-blogs-is.html",
 				
-				"content_html": "<p>Sublime Blogs is coming along well. <a href=\"https://github.com/Ionaru/easy-markdown-editor\">EasyMDE</a> has been working amazing so far!</p>\n\n<p><img src=\"uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
-				"content_text": "Sublime Blogs is coming along well. [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) has been working amazing so far! \n\n<img src=\"uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" />\n",
+				"content_html": "<p>Sublime Blogs is coming along well. <a href=\"https://github.com/Ionaru/easy-markdown-editor\">EasyMDE</a> has been working amazing so far!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
+				"content_text": "Sublime Blogs is coming along well. [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) has been working amazing so far! \n\n<img src=\"https://lukebouch.com/uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" />\n",
 				"date_published": "2022-03-23T18:16:47-04:00",
 				"url": "https://lukebouch.com/2022/03/23/sublime-blogs-is.html"
 			},
@@ -575,8 +631,8 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/27/created-this-cool.html",
 				
-				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"https://lukebouch.com/uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-27T00:11:14-04:00",
 				"url": "https://lukebouch.com/2021/05/27/created-this-cool.html"
 			},
