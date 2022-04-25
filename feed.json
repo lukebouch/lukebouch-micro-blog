@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/04/24/today-i-started.html",
+				
+				"content_html": "<p>Today I started working on the marketing site/landing page for <a href=\"https://sublimeblogs.com\">Sublime Blogs</a>. I used tailwindui for the navigation and hero section and it turned out pretty good in my opinion. The marketing may need some work but it is a start.</p>\n\n<p><img src=\"uploads/2022/501fac8b9b.jpg\" width=\"600\" height=\"341\" alt=\"\" /></p>\n",
+				"content_text": "Today I started working on the marketing site/landing page for [Sublime Blogs](https://sublimeblogs.com). I used tailwindui for the navigation and hero section and it turned out pretty good in my opinion. The marketing may need some work but it is a start.\n\n<img src=\"uploads/2022/501fac8b9b.jpg\" width=\"600\" height=\"341\" alt=\"\" />\n",
+				"date_published": "2022-04-24T21:20:45-04:00",
+				"url": "https://lukebouch.com/2022/04/24/today-i-started.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/22/i-just-spent.html",
+				
+				"content_html": "<p>I just spent about four hours working on <a href=\"https://sublimeblogs.com\">Sublime Blogs</a> and using the API to build out my blog with NuxtJS. I have been primarily focusing on building out the API. It is coming together well so far.</p>\n\n<p><img src=\"uploads/2022/4fa71bec6d.jpg\" width=\"600\" height=\"420\" alt=\"\" /></p>\n",
+				"content_text": "I just spent about four hours working on [Sublime Blogs](https://sublimeblogs.com) and using the API to build out my blog with NuxtJS. I have been primarily focusing on building out the API. It is coming together well so far. \n\n\n<img src=\"uploads/2022/4fa71bec6d.jpg\" width=\"600\" height=\"420\" alt=\"\" />\n",
+				"date_published": "2022-04-22T15:08:35-04:00",
+				"url": "https://lukebouch.com/2022/04/22/i-just-spent.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/20/after-purchasing-tailwindui.html",
+				
+				"content_html": "<p>After purchasing <a href=\"https://tailwindui.com\">Tailwindui</a>, I went to town redesigning Sublime Blogs. I’m very happy with how things are coming together!</p>\n\n<p><img src=\"uploads/2022/ecaca4eed9.jpg\" width=\"600\" height=\"334\" alt=\"\" /><img src=\"uploads/2022/468466cf0d.jpg\" width=\"600\" height=\"334\" alt=\"\" /><img src=\"uploads/2022/772e297834.jpg\" width=\"600\" height=\"334\" alt=\"\" /><img src=\"uploads/2022/3e50e75e88.jpg\" width=\"600\" height=\"334\" alt=\"\" /></p>\n",
+				"content_text": "After purchasing [Tailwindui](https://tailwindui.com), I went to town redesigning Sublime Blogs. I’m very happy with how things are coming together!\n\n<img src=\"uploads/2022/ecaca4eed9.jpg\" width=\"600\" height=\"334\" alt=\"\" /><img src=\"uploads/2022/468466cf0d.jpg\" width=\"600\" height=\"334\" alt=\"\" /><img src=\"uploads/2022/772e297834.jpg\" width=\"600\" height=\"334\" alt=\"\" /><img src=\"uploads/2022/3e50e75e88.jpg\" width=\"600\" height=\"334\" alt=\"\" />\n",
+				"date_published": "2022-04-20T19:11:15-04:00",
+				"url": "https://lukebouch.com/2022/04/20/after-purchasing-tailwindui.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/20/im-about-months.html",
+				
+				"content_html": "<p>I’m about 2 months out from being able to ship Sublime Blogs. I’m excited 😃</p>\n\n<p>I still need to work on pricing though 🤔 How does $2/month per site sound? Maybe that includes a certain amount of storage for photos?</p>\n",
+				"content_text": "I’m about 2 months out from being able to ship Sublime Blogs. I’m excited 😃 \n\nI still need to work on pricing though 🤔 How does $2/month per site sound? Maybe that includes a certain amount of storage for photos?\n",
+				"date_published": "2022-04-20T08:34:38-04:00",
+				"url": "https://lukebouch.com/2022/04/20/im-about-months.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/18/i-started-researching.html",
+				
+				"content_html": "<p>I started researching Agile and Scrum project management. I’m hoping to start implementing it with some of my client and personal projects.</p>\n",
+				"content_text": "I started researching Agile and Scrum project management. I’m hoping to start implementing it with some of my client and personal projects. \n",
+				"date_published": "2022-04-18T21:14:03-04:00",
+				"url": "https://lukebouch.com/2022/04/18/i-started-researching.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/17/my-brother-just.html",
+				
+				"content_html": "<p>My brother just got his motorcycle license so my dad, brother, and I went for a ride. That was a lot of fun!</p>\n",
+				"content_text": "My brother just got his motorcycle license so my dad, brother, and I went for a ride. That was a lot of fun!\n",
+				"date_published": "2022-04-17T21:07:28-04:00",
+				"url": "https://lukebouch.com/2022/04/17/my-brother-just.html"
+			},
+			{
+				"id": "http://LukeBouch.micro.blog/2022/04/16/i-sold-my.html",
+				
+				"content_html": "<p>I sold my Honda Nighthawk today. Now I’m down to one bike and a truck.</p>\n",
+				"content_text": "I sold my Honda Nighthawk today. Now I’m down to one bike and a truck. \n",
+				"date_published": "2022-04-16T21:18:04-04:00",
+				"url": "https://lukebouch.com/2022/04/16/i-sold-my.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/04/15/i-want-to.html",
 				
 				"content_html": "<p>I want to be good at designing user interfaces, but sadly no matter how hard I try, it never ends up looking the way I want it to. So… I purchased <a href=\"https://tailwindui.com\">Tailwindui</a>. We will see if it helps.</p>\n\n<p>Now to redesign Sublime Blogs.</p>\n",
