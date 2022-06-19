@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://LukeBouch.micro.blog/2022/04/25/i-got-tired.html",
+				
+				"content_html": "<p>I got tired of stuggling learning VueJS and Nuxt, so I decided to build out my new blog in <a href=\"https://jigsaw.tighten.com\">Jigsaw</a>. It is almost done and I will be moving away from <a href=\"https://micro.blog\">Micro.blog</a> in favor of my new headless cms I’m working on (<a href=\"https://sublimeblogs.com\">Sublime blogs</a>).</p>\n\n<p>I have nothing against <a href=\"https://micro.blog\">Micro.blog</a> but I’m a control freek and I want complete control over the frontend using my static site generator of choice. I’m also trying to cut down on costs.</p>\n",
+				"content_text": "I got tired of stuggling learning VueJS and Nuxt, so I decided to build out my new blog in [Jigsaw](https://jigsaw.tighten.com). It is almost done and I will be moving away from [Micro.blog](https://micro.blog) in favor of my new headless cms I’m working on ([Sublime blogs](https://sublimeblogs.com)).\n\nI have nothing against [Micro.blog](https://micro.blog) but I’m a control freek and I want complete control over the frontend using my static site generator of choice. I’m also trying to cut down on costs.\n",
+				"date_published": "2022-04-25T19:19:26-04:00",
+				"url": "https://lukebouch.com/2022/04/25/i-got-tired.html"
+			},
+			{
 				"id": "http://LukeBouch.micro.blog/2022/04/24/today-i-started.html",
 				
 				"content_html": "<p>Today I started working on the marketing site/landing page for <a href=\"https://sublimeblogs.com\">Sublime Blogs</a>. I used tailwindui for the navigation and hero section and it turned out pretty good in my opinion. The marketing may need some work but it is a start.</p>\n\n<p><img src=\"uploads/2022/501fac8b9b.jpg\" width=\"600\" height=\"341\" alt=\"\" /></p>\n",
@@ -217,8 +225,8 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2022/03/23/sublime-blogs-is.html",
 				
-				"content_html": "<p>Sublime Blogs is coming along well. <a href=\"https://github.com/Ionaru/easy-markdown-editor\">EasyMDE</a> has been working amazing so far!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
-				"content_text": "Sublime Blogs is coming along well. [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) has been working amazing so far! \n\n<img src=\"https://lukebouch.com/uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" />\n",
+				"content_html": "<p>Sublime Blogs is coming along well. <a href=\"https://github.com/Ionaru/easy-markdown-editor\">EasyMDE</a> has been working amazing so far!</p>\n\n<p><img src=\"uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
+				"content_text": "Sublime Blogs is coming along well. [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) has been working amazing so far! \n\n<img src=\"uploads/2022/74c63866ea.png\" width=\"600\" height=\"297\" alt=\"\" />\n",
 				"date_published": "2022-03-23T18:16:47-04:00",
 				"url": "https://lukebouch.com/2022/03/23/sublime-blogs-is.html"
 			},
@@ -687,8 +695,8 @@
 			{
 				"id": "http://LukeBouch.micro.blog/2021/05/27/created-this-cool.html",
 				
-				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"https://lukebouch.com/uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"https://lukebouch.com/uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Created this cool wallpaper! Feel free to use it however you would like!</p>\n\n<p><img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Created this cool wallpaper! Feel free to use it however you would like!\n\n<img src=\"uploads/2021/31d8539e14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-27T00:11:14-04:00",
 				"url": "https://lukebouch.com/2021/05/27/created-this-cool.html"
 			},
